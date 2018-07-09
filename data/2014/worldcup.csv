@@ -1,0 +1,139 @@
+name,rounds__name,rounds__matches__num,rounds__matches__date,rounds__matches__time,rounds__matches__team1__name,rounds__matches__team1__code,rounds__matches__team2__name,rounds__matches__team2__code,rounds__matches__score1,rounds__matches__score2,rounds__matches__score1i,rounds__matches__score2i,rounds__matches__score1et,rounds__matches__score2et,rounds__matches__score1p,rounds__matches__score2p,rounds__matches__knockout,rounds__matches__goals1__name,rounds__matches__goals1__minute,rounds__matches__goals1__offset,rounds__matches__goals1__score1,rounds__matches__goals1__score2,rounds__matches__goals1__owngoal,rounds__matches__goals1__penalty,rounds__matches__goals2__name,rounds__matches__goals2__minute,rounds__matches__goals2__offset,rounds__matches__goals2__score1,rounds__matches__goals2__score2,rounds__matches__goals2__penalty,rounds__matches__goals2__owngoal,rounds__matches__group,rounds__matches__stadium__key,rounds__matches__stadium__name,rounds__matches__city,rounds__matches__timezone
+World Cup 2014,Matchday 1,1,2014-06-12,17:00,Brazil,BRA,Croatia,CRO,3,1,null,null,,,,,,Neymar,29,,1,1,,,Marcelo,11,,0,1,,True,Group A,corinthians,Arena Corinthians,São Paulo,UTC-3
+World Cup 2014,Matchday 1,1,2014-06-12,17:00,Brazil,BRA,Croatia,CRO,,,,,,,,,,Neymar,71,,2,1,,True,,,,,,,,Group A,corinthians,Arena Corinthians,São Paulo,UTC-3
+World Cup 2014,Matchday 1,1,2014-06-12,17:00,Brazil,BRA,Croatia,CRO,,,,,,,,,,Oscar,90,1,3,1,,,,,,,,,,Group A,corinthians,Arena Corinthians,São Paulo,UTC-3
+World Cup 2014,Matchday 2,2,2014-06-13,13:00,Mexico,MEX,Cameroon,CMR,1,0,null,null,,,,,,Oribe Peralta,61,,1,0,,,,,,,,,,Group A,corinthians,Arena Corinthians,São Paulo,UTC-3
+World Cup 2014,Matchday 2,3,2014-06-13,16:00,Spain,ESP,Netherlands,NED,1,5,null,null,,,,,,Xabi Alonso,27,,1,0,,True,Robin Van Persie,44,,1,1,,,Group B,fontenova,Arena Fonte Nova,Salvador,UTC-3
+World Cup 2014,Matchday 2,3,2014-06-13,16:00,Spain,ESP,Netherlands,NED,,,,,,,,,,,,,,,,,Arjen Robben,53,,1,2,,,Group B,fontenova,Arena Fonte Nova,Salvador,UTC-3
+World Cup 2014,Matchday 2,3,2014-06-13,16:00,Spain,ESP,Netherlands,NED,,,,,,,,,,,,,,,,,Stefan De Vrij,65,,1,3,,,Group B,fontenova,Arena Fonte Nova,Salvador,UTC-3
+World Cup 2014,Matchday 2,3,2014-06-13,16:00,Spain,ESP,Netherlands,NED,,,,,,,,,,,,,,,,,Robin Van Persie,72,,1,4,,,Group B,fontenova,Arena Fonte Nova,Salvador,UTC-3
+World Cup 2014,Matchday 2,3,2014-06-13,16:00,Spain,ESP,Netherlands,NED,,,,,,,,,,,,,,,,,Arjen Robben,80,,1,5,,,Group B,fontenova,Arena Fonte Nova,Salvador,UTC-3
+World Cup 2014,Matchday 2,4,2014-06-13,18:00,Chile,CHI,Australia,AUS,3,1,null,null,,,,,,Alexis Sánchez,12,,1,0,,,Cahill,35,,2,1,,,Group B,pantanal,Arena Pantanal,Cuiabá,UTC-4
+World Cup 2014,Matchday 2,4,2014-06-13,18:00,Chile,CHI,Australia,AUS,,,,,,,,,,Jorge Valdívia,14,,2,0,,,,,,,,,,Group B,pantanal,Arena Pantanal,Cuiabá,UTC-4
+World Cup 2014,Matchday 2,4,2014-06-13,18:00,Chile,CHI,Australia,AUS,,,,,,,,,,Jean Beausejour,90,2,3,1,,,,,,,,,,Group B,pantanal,Arena Pantanal,Cuiabá,UTC-4
+World Cup 2014,Matchday 3,5,2014-06-14,13:00,Colombia,COL,Greece,GRE,3,0,null,null,,,,,,Pablo Armero,5,,1,0,,,,,,,,,,Group C,mineirao,Estádio Mineirão,Belo Horizonte,UTC-3
+World Cup 2014,Matchday 3,5,2014-06-14,13:00,Colombia,COL,Greece,GRE,,,,,,,,,,Teofilo Gutiérrez,58,,2,0,,,,,,,,,,Group C,mineirao,Estádio Mineirão,Belo Horizonte,UTC-3
+World Cup 2014,Matchday 3,5,2014-06-14,13:00,Colombia,COL,Greece,GRE,,,,,,,,,,James Rodríguez,90,3,3,0,,,,,,,,,,Group C,mineirao,Estádio Mineirão,Belo Horizonte,UTC-3
+World Cup 2014,Matchday 3,6,2014-06-14,22:00,Côte d'Ivoire,CIV,Japan,JPN,2,1,null,null,,,,,,Wilfried Bony,64,,1,1,,,Keisuke Honda,16,,0,1,,,Group C,pernambuco,Arena Pernambuco,Recife,UTC-3
+World Cup 2014,Matchday 3,6,2014-06-14,22:00,Côte d'Ivoire,CIV,Japan,JPN,,,,,,,,,,Gervinho,66,,2,1,,,,,,,,,,Group C,pernambuco,Arena Pernambuco,Recife,UTC-3
+World Cup 2014,Matchday 3,7,2014-06-14,16:00,Uruguay,URU,Costa Rica,CRC,1,3,null,null,,,,,,Edinson Cavani,24,,1,0,,True,Joel Campbell,54,,1,1,,,Group D,castelao,Estádio Castelão,Fortaleza,UTC-3
+World Cup 2014,Matchday 3,7,2014-06-14,16:00,Uruguay,URU,Costa Rica,CRC,,,,,,,,,,,,,,,,,Oscar Duarte,57,,1,2,,,Group D,castelao,Estádio Castelão,Fortaleza,UTC-3
+World Cup 2014,Matchday 3,7,2014-06-14,16:00,Uruguay,URU,Costa Rica,CRC,,,,,,,,,,,,,,,,,Marcos Ureña,84,,1,3,,,Group D,castelao,Estádio Castelão,Fortaleza,UTC-3
+World Cup 2014,Matchday 3,8,2014-06-14,18:00,England,ENG,Italy,ITA,1,2,null,null,,,,,,Daniel Sturridge,37,,1,1,,,Claudio Marchisio,35,,0,1,,,Group D,amazonia,Arena Amazônia,Manaus,UTC-4
+World Cup 2014,Matchday 3,8,2014-06-14,18:00,England,ENG,Italy,ITA,,,,,,,,,,,,,,,,,Mario Balotelli,50,,1,2,,,Group D,amazonia,Arena Amazônia,Manaus,UTC-4
+World Cup 2014,Matchday 4,9,2014-06-15,13:00,Switzerland,SUI,Ecuador,ECU,2,1,null,null,,,,,,Admir Mehmedi,48,,1,1,,,Enner Valencia,22,,0,1,,,Group E,nacionaldebrasilia,Estádio Nacional (Mané Garrincha),Brasília,UTC-3
+World Cup 2014,Matchday 4,,2014-06-15,13:00,Switzerland,SUI,Ecuador,ECU,,,,,,,,,,Haris Seferović,90,3,2,1,,,,,,,,,,Group E,nacionaldebrasilia,Estádio Nacional (Mané Garrincha),Brasília,UTC-3
+World Cup 2014,Matchday 4,10,2014-06-15,16:00,France,FRA,Honduras,HON,3,0,null,null,,,,,,Karim Benzema,45,,1,0,,True,,,,,,,,Group E,beirario,Estádio Beira-Rio,Porto Alegre,UTC-3
+World Cup 2014,Matchday 4,,2014-06-15,16:00,France,FRA,Honduras,HON,,,,,,,,,,Noel Valladares,48,,2,0,True,,,,,,,,,Group E,beirario,Estádio Beira-Rio,Porto Alegre,UTC-3
+World Cup 2014,Matchday 4,,2014-06-15,16:00,France,FRA,Honduras,HON,,,,,,,,,,Karim Benzema,72,,3,0,,,,,,,,,,Group E,beirario,Estádio Beira-Rio,Porto Alegre,UTC-3
+World Cup 2014,Matchday 4,11,2014-06-15,19:00,Argentina,ARG,Bosnia-Herzegovina,BIH,2,1,null,null,,,,,,Sead Kolašinac,3,,1,0,True,,Vedad Ibišević,85,,2,1,,,Group F,maracana,Estádio do Maracanã,Rio de Janeiro,UTC-3
+World Cup 2014,Matchday 4,,2014-06-15,19:00,Argentina,ARG,Bosnia-Herzegovina,BIH,,,,,,,,,,Lionel Messi,65,,2,0,,,,,,,,,,Group F,maracana,Estádio do Maracanã,Rio de Janeiro,UTC-3
+World Cup 2014,Matchday 5,12,2014-06-16,16:00,Iran,IRN,Nigeria,NGA,0,0,null,null,,,,,,,,,,,,,,,,,,,,Group F,dabaixada,Arena da Baixada,Curitiba,UTC-3
+World Cup 2014,Matchday 5,13,2014-06-16,13:00,Germany,GER,Portugal,POR,4,0,null,null,,,,,,Thomas Müller,12,,1,0,,True,,,,,,,,Group G,fontenova,Arena Fonte Nova,Salvador,UTC-3
+World Cup 2014,Matchday 5,,2014-06-16,13:00,Germany,GER,Portugal,POR,,,,,,,,,,Mats Hummels,32,,2,0,,,,,,,,,,Group G,fontenova,Arena Fonte Nova,Salvador,UTC-3
+World Cup 2014,Matchday 5,,2014-06-16,13:00,Germany,GER,Portugal,POR,,,,,,,,,,Thomas Müller,45,1,3,0,,,,,,,,,,Group G,fontenova,Arena Fonte Nova,Salvador,UTC-3
+World Cup 2014,Matchday 5,,2014-06-16,13:00,Germany,GER,Portugal,POR,,,,,,,,,,Thomas Müller,78,,4,0,,,,,,,,,,Group G,fontenova,Arena Fonte Nova,Salvador,UTC-3
+World Cup 2014,Matchday 5,14,2014-06-16,19:00,Ghana,GHA,United States,USA,1,2,null,null,,,,,,André Ayew,82,,1,1,,,Clint Dempsey,1,,0,1,,,Group G,fontenova,Arena Fonte Nova,Salvador,UTC-3
+World Cup 2014,Matchday 5,,2014-06-16,19:00,Ghana,GHA,United States,USA,,,,,,,,,,,,,,,,,John Brooks,86,,1,2,,,Group G,fontenova,Arena Fonte Nova,Salvador,UTC-3
+World Cup 2014,Matchday 6,15,2014-06-17,13:00,Belgium,BEL,Algeria,ALG,2,1,null,null,,,,,,Marouane Fellaini,70,,1,1,,,Sofiane Feghouli,25,,0,1,True,,Group H,mineirao,Estádio Mineirão,Belo Horizonte,UTC-3
+World Cup 2014,Matchday 6,,2014-06-17,13:00,Belgium,BEL,Algeria,ALG,,,,,,,,,,Dries Mertens,80,,2,1,,,,,,,,,,Group H,mineirao,Estádio Mineirão,Belo Horizonte,UTC-3
+World Cup 2014,Matchday 6,16,2014-06-17,18:00,Russia,RUS,South Korea,KOR,1,1,null,null,,,,,,Alexander Kerzhakov,74,,1,1,,,Lee Keunho,68,,0,1,,,Group H,pantanal,Arena Pantanal,Cuiabá,UTC-4
+World Cup 2014,Matchday 6,17,2014-06-17,16:00,Brazil,BRA,Mexico,MEX,0,0,null,null,,,,,,,,,,,,,,,,,,,,Group A,castelao,Estádio Castelão,Fortaleza,UTC-3
+World Cup 2014,Matchday 7,18,2014-06-18,18:00,Cameroon,CMR,Croatia,CRO,0,4,null,null,,,,,,,,,,,,,Ivica Olić,11,,0,1,,,Group A,amazonia,Arena Amazônia,Manaus,UTC-4
+World Cup 2014,Matchday 7,,2014-06-18,18:00,Cameroon,CMR,Croatia,CRO,,,,,,,,,,,,,,,,,Ivan Perišić,48,,0,2,,,Group A,amazonia,Arena Amazônia,Manaus,UTC-4
+World Cup 2014,Matchday 7,,2014-06-18,18:00,Cameroon,CMR,Croatia,CRO,,,,,,,,,,,,,,,,,Mario Mandžukić,61,,0,3,,,Group A,amazonia,Arena Amazônia,Manaus,UTC-4
+World Cup 2014,Matchday 7,,2014-06-18,18:00,Cameroon,CMR,Croatia,CRO,,,,,,,,,,,,,,,,,Mario Mandžukić,73,,0,4,,,Group A,amazonia,Arena Amazônia,Manaus,UTC-4
+World Cup 2014,Matchday 7,19,2014-06-18,16:00,Spain,ESP,Chile,CHI,0,2,null,null,,,,,,,,,,,,,Eduardo Vargas,20,,0,1,,,Group B,maracana,Estádio do Maracanã,Rio de Janeiro,UTC-3
+World Cup 2014,Matchday 7,,2014-06-18,16:00,Spain,ESP,Chile,CHI,,,,,,,,,,,,,,,,,Charles Aránguiz,43,,0,2,,,Group B,maracana,Estádio do Maracanã,Rio de Janeiro,UTC-3
+World Cup 2014,Matchday 7,20,2014-06-18,13:00,Australia,AUS,Netherlands,NED,2,3,null,null,,,,,,Tim Cahill,21,,1,1,,,Arjen Robben,20,,0,1,,,Group B,beirario,Estádio Beira-Rio,Porto Alegre,UTC-3
+World Cup 2014,Matchday 7,,2014-06-18,13:00,Australia,AUS,Netherlands,NED,,,,,,,,,,Mile Jedinak,54,,2,1,,True,Robin Van Persie,58,,2,2,,,Group B,beirario,Estádio Beira-Rio,Porto Alegre,UTC-3
+World Cup 2014,Matchday 7,,2014-06-18,13:00,Australia,AUS,Netherlands,NED,,,,,,,,,,,,,,,,,Memphis Depay,68,,2,3,,,Group B,beirario,Estádio Beira-Rio,Porto Alegre,UTC-3
+World Cup 2014,Matchday 8,21,2014-06-19,13:00,Colombia,COL,Côte d'Ivoire,CIV,2,1,null,null,,,,,,James Rodríguez,64,,1,0,,,Gervinho,73,,2,1,,,Group C,nacionaldebrasilia,Estádio Nacional (Mané Garrincha),Brasília,UTC-3
+World Cup 2014,Matchday 8,,2014-06-19,13:00,Colombia,COL,Côte d'Ivoire,CIV,,,,,,,,,,Juan Quintero,70,,2,0,,,,,,,,,,Group C,nacionaldebrasilia,Estádio Nacional (Mané Garrincha),Brasília,UTC-3
+World Cup 2014,Matchday 8,22,2014-06-19,19:00,Japan,JPN,Greece,GRE,0,0,null,null,,,,,,,,,,,,,,,,,,,,Group C,nacionaldebrasilia,Estádio Nacional (Mané Garrincha),Brasília,UTC-3
+World Cup 2014,Matchday 8,23,2014-06-19,16:00,Uruguay,URU,England,ENG,2,1,null,null,,,,,,Luis Suárez,39,,1,0,,,Wayne Rooney,75,,1,1,,,Group D,corinthians,Arena Corinthians,São Paulo,UTC-3
+World Cup 2014,Matchday 8,,2014-06-19,16:00,Uruguay,URU,England,ENG,,,,,,,,,,Luis Suárez,85,,2,1,,,,,,,,,,Group D,corinthians,Arena Corinthians,São Paulo,UTC-3
+World Cup 2014,Matchday 9,24,2014-06-20,13:00,Italy,ITA,Costa Rica,CRC,0,1,null,null,,,,,,,,,,,,,Bryan Ruiz,44,,0,1,,,Group D,pernambuco,Arena Pernambuco,Recife,UTC-3
+World Cup 2014,Matchday 9,25,2014-06-20,16:00,Switzerland,SUI,France,FRA,2,5,null,null,,,,,,Blerim Džemaili,81,,1,5,,,Olivier Giroud,17,,0,1,,,Group E,fontenova,Arena Fonte Nova,Salvador,UTC-3
+World Cup 2014,Matchday 9,,2014-06-20,16:00,Switzerland,SUI,France,FRA,,,,,,,,,,Granit Xhaka,87,,2,5,,,Blaise Matuidi,18,,0,2,,,Group E,fontenova,Arena Fonte Nova,Salvador,UTC-3
+World Cup 2014,Matchday 9,,2014-06-20,16:00,Switzerland,SUI,France,FRA,,,,,,,,,,,,,,,,,Mathieu Valbuena,40,,0,3,,,Group E,fontenova,Arena Fonte Nova,Salvador,UTC-3
+World Cup 2014,Matchday 9,,2014-06-20,16:00,Switzerland,SUI,France,FRA,,,,,,,,,,,,,,,,,Karim Benzema,67,,0,4,,,Group E,fontenova,Arena Fonte Nova,Salvador,UTC-3
+World Cup 2014,Matchday 9,,2014-06-20,16:00,Switzerland,SUI,France,FRA,,,,,,,,,,,,,,,,,Moussa Sissoko,73,,0,5,,,Group E,fontenova,Arena Fonte Nova,Salvador,UTC-3
+World Cup 2014,Matchday 9,26,2014-06-20,19:00,Honduras,HON,Ecuador,ECU,1,2,null,null,,,,,,Carlo Costly,31,,1,0,,,Enner Valencia,34,,1,1,,,Group E,dabaixada,Arena da Baixada,Curitiba,UTC-3
+World Cup 2014,Matchday 9,,2014-06-20,19:00,Honduras,HON,Ecuador,ECU,,,,,,,,,,,,,,,,,Enner Valencia,65,,1,2,,,Group E,dabaixada,Arena da Baixada,Curitiba,UTC-3
+World Cup 2014,Matchday 10,27,2014-06-21,13:00,Argentina,ARG,Iran,IRN,1,0,null,null,,,,,,Lionel Messi,90,,1,0,,,,,,,,,,Group F,mineirao,Estádio Mineirão,Belo Horizonte,UTC-3
+World Cup 2014,Matchday 10,28,2014-06-21,18:00,Nigeria,NGA,Bosnia-Herzegovina,BIH,1,0,null,null,,,,,,Peter Odemwingie,29,,1,0,,,,,,,,,,Group F,pantanal,Arena Pantanal,Cuiabá,UTC-4
+World Cup 2014,Matchday 10,29,2014-06-21,16:00,Germany,GER,Ghana,GHA,2,2,null,null,,,,,,Mario Götze,51,,1,0,,,André Ayew,54,,1,1,,,Group G,castelao,Estádio Castelão,Fortaleza,UTC-3
+World Cup 2014,Matchday 10,,2014-06-21,16:00,Germany,GER,Ghana,GHA,,,,,,,,,,Miroslav Klose,71,,2,2,,,Asamoah Gyan,63,,1,2,,,Group G,castelao,Estádio Castelão,Fortaleza,UTC-3
+World Cup 2014,Matchday 11,30,2014-06-22,18:00,United States,USA,Portugal,POR,2,2,null,null,,,,,,Jermaine Jones,64,,1,1,,,Nani,5,,0,1,,,Group G,amazonia,Arena Amazônia,Manaus,UTC-4
+World Cup 2014,Matchday 11,,2014-06-22,18:00,United States,USA,Portugal,POR,,,,,,,,,,Clint Dempsey,81,,2,1,,,Varela,90,5,2,2,,,Group G,amazonia,Arena Amazônia,Manaus,UTC-4
+World Cup 2014,Matchday 11,31,2014-06-22,13:00,Belgium,BEL,Russia,RUS,1,0,null,null,,,,,,Divock Origi,88,,1,0,,,,,,,,,,Group H,maracana,Estádio do Maracanã,Rio de Janeiro,UTC-3
+World Cup 2014,Matchday 11,32,2014-06-22,16:00,South Korea,KOR,Algeria,ALG,2,4,null,null,,,,,,Son Heung Min,50,,1,3,,,Islam Slimani,26,,0,1,,,Group H,beirario,Estádio Beira-Rio,Porto Alegre,UTC-3
+World Cup 2014,Matchday 11,,2014-06-22,16:00,South Korea,KOR,Algeria,ALG,,,,,,,,,,Koo Jacheol,72,,2,4,,,Rafik Halliche,28,,0,2,,,Group H,beirario,Estádio Beira-Rio,Porto Alegre,UTC-3
+World Cup 2014,Matchday 11,,2014-06-22,16:00,South Korea,KOR,Algeria,ALG,,,,,,,,,,,,,,,,,Abdelmoumene Djabou,38,,0,3,,,Group H,beirario,Estádio Beira-Rio,Porto Alegre,UTC-3
+World Cup 2014,Matchday 11,,2014-06-22,16:00,South Korea,KOR,Algeria,ALG,,,,,,,,,,,,,,,,,Yacine Brahimi,62,,1,4,,,Group H,beirario,Estádio Beira-Rio,Porto Alegre,UTC-3
+World Cup 2014,Matchday 12,33,2014-06-23,17:00,Cameroon,CMR,Brazil,BRA,1,4,null,null,,,,,,Joel Matip,26,,1,1,,,Neymar,17,,0,1,,,Group A,nacionaldebrasilia,Estádio Nacional (Mané Garrincha),Brasília,UTC-3
+World Cup 2014,Matchday 12,,2014-06-23,17:00,Cameroon,CMR,Brazil,BRA,,,,,,,,,,,,,,,,,Neymar,35,,1,2,,,Group A,nacionaldebrasilia,Estádio Nacional (Mané Garrincha),Brasília,UTC-3
+World Cup 2014,Matchday 12,,2014-06-23,17:00,Cameroon,CMR,Brazil,BRA,,,,,,,,,,,,,,,,,Fred,49,,1,3,,,Group A,nacionaldebrasilia,Estádio Nacional (Mané Garrincha),Brasília,UTC-3
+World Cup 2014,Matchday 12,,2014-06-23,17:00,Cameroon,CMR,Brazil,BRA,,,,,,,,,,,,,,,,,Fernandinho,84,,1,4,,,Group A,nacionaldebrasilia,Estádio Nacional (Mané Garrincha),Brasília,UTC-3
+World Cup 2014,Matchday 12,34,2014-06-23,17:00,Croatia,CRO,Mexico,MEX,1,3,null,null,,,,,,Ivan Perišić,87,,1,3,,,Rafael Márquez,72,,0,1,,,Group A,pernambuco,Arena Pernambuco,Recife,UTC-3
+World Cup 2014,Matchday 12,,2014-06-23,17:00,Croatia,CRO,Mexico,MEX,,,,,,,,,,,,,,,,,Andres Guardado,75,,0,2,,,Group A,pernambuco,Arena Pernambuco,Recife,UTC-3
+World Cup 2014,Matchday 12,,2014-06-23,17:00,Croatia,CRO,Mexico,MEX,,,,,,,,,,,,,,,,,Javier Hernández,82,,0,3,,,Group A,pernambuco,Arena Pernambuco,Recife,UTC-3
+World Cup 2014,Matchday 12,35,2014-06-23,13:00,Australia,AUS,Spain,ESP,0,3,null,null,,,,,,,,,,,,,David Villa,36,,0,1,,,Group B,dabaixada,Arena da Baixada,Curitiba,UTC-3
+World Cup 2014,Matchday 12,35,2014-06-23,13:00,Australia,AUS,Spain,ESP,,,,,,,,,,,,,,,,,Fernando Torres,69,,0,2,,,Group B,dabaixada,Arena da Baixada,Curitiba,UTC-3
+World Cup 2014,Matchday 12,35,2014-06-23,13:00,Australia,AUS,Spain,ESP,,,,,,,,,,,,,,,,,Juan Mata,82,,0,3,,,Group B,dabaixada,Arena da Baixada,Curitiba,UTC-3
+World Cup 2014,Matchday 12,36,2014-06-23,13:00,Netherlands,NED,Chile,CHI,2,0,null,null,,,,,,Leroy Fer,77,,1,0,,,,,,,,,,Group B,corinthians,Arena Corinthians,São Paulo,UTC-3
+World Cup 2014,Matchday 12,36,2014-06-23,13:00,Netherlands,NED,Chile,CHI,,,,,,,,,,Memphis Depay,90,2,2,0,,,,,,,,,,Group B,corinthians,Arena Corinthians,São Paulo,UTC-3
+World Cup 2014,Matchday 13,37,2014-06-24,16:00,Japan,JPN,Colombia,COL,1,4,null,null,,,,,,Shinji Okazaki,45,1,1,1,,,Juan Cuadrado,17,,0,1,True,,Group C,pantanal,Arena Pantanal,Cuiabá,UTC-4
+World Cup 2014,Matchday 13,37,2014-06-24,16:00,Japan,JPN,Colombia,COL,,,,,,,,,,,,,,,,,Jackson Martínez,55,,1,2,,,Group C,pantanal,Arena Pantanal,Cuiabá,UTC-4
+World Cup 2014,Matchday 13,37,2014-06-24,16:00,Japan,JPN,Colombia,COL,,,,,,,,,,,,,,,,,Jackson Martínez,82,,1,3,,,Group C,pantanal,Arena Pantanal,Cuiabá,UTC-4
+World Cup 2014,Matchday 13,37,2014-06-24,16:00,Japan,JPN,Colombia,COL,,,,,,,,,,,,,,,,,James Rodríguez,90,,1,4,,,Group C,pantanal,Arena Pantanal,Cuiabá,UTC-4
+World Cup 2014,Matchday 13,38,2014-06-24,17:00,Greece,GRE,Côte d'Ivoire,CIV,2,1,null,null,,,,,,Andreas Samaris,42,,1,0,,,Wilfried Bony,74,,1,1,,,Group C,castelao,Estádio Castelão,Fortaleza,UTC-3
+World Cup 2014,Matchday 13,38,2014-06-24,17:00,Greece,GRE,Côte d'Ivoire,CIV,,,,,,,,,,Georgios Samaras,90,3,2,1,,True,,,,,,,,Group C,castelao,Estádio Castelão,Fortaleza,UTC-3
+World Cup 2014,Matchday 13,39,2014-06-24,13:00,Italy,ITA,Uruguay,URU,0,1,null,null,,,,,,,,,,,,,Diego Godín,81,,0,1,,,Group D,castelao,Estádio Castelão,Fortaleza,UTC-3
+World Cup 2014,Matchday 13,40,2014-06-24,13:00,Costa Rica,CRC,England,ENG,0,0,null,null,,,,,,,,,,,,,,,,,,,,Group D,mineirao,Estádio Mineirão,Belo Horizonte,UTC-3
+World Cup 2014,Matchday 14,41,2014-06-25,16:00,Honduras,HON,Switzerland,SUI,0,3,null,null,,,,,,,,,,,,,Xherdan Shaqiri,6,,0,1,,,Group E,amazonia,Arena Amazônia,Manaus,UTC-4
+World Cup 2014,Matchday 14,41,2014-06-25,16:00,Honduras,HON,Switzerland,SUI,,,,,,,,,,,,,,,,,Xherdan Shaqiri,31,,0,2,,,Group E,amazonia,Arena Amazônia,Manaus,UTC-4
+World Cup 2014,Matchday 14,41,2014-06-25,16:00,Honduras,HON,Switzerland,SUI,,,,,,,,,,,,,,,,,Xherdan Shaqiri,71,,0,3,,,Group E,amazonia,Arena Amazônia,Manaus,UTC-4
+World Cup 2014,Matchday 14,42,2014-06-25,17:00,Ecuador,ECU,France,FRA,0,0,null,null,,,,,,,,,,,,,,,,,,,,Group E,maracana,Estádio do Maracanã,Rio de Janeiro,UTC-3
+World Cup 2014,Matchday 14,43,2014-06-25,13:00,Nigeria,NGA,Argentina,ARG,2,3,null,null,,,,,,Ahmed Musa,4,,1,1,,,Lionel Messi,3,,0,1,,,Group F,beirario,Estádio Beira-Rio,Porto Alegre,UTC-3
+World Cup 2014,Matchday 14,43,2014-06-25,13:00,Nigeria,NGA,Argentina,ARG,,,,,,,,,,Ahmed Musa,47,,2,2,,,Lionel Messi,45,1,1,2,,,Group F,beirario,Estádio Beira-Rio,Porto Alegre,UTC-3
+World Cup 2014,Matchday 14,43,2014-06-25,13:00,Nigeria,NGA,Argentina,ARG,,,,,,,,,,,,,,,,,Marcos Rojo,50,,2,3,,,Group F,beirario,Estádio Beira-Rio,Porto Alegre,UTC-3
+World Cup 2014,Matchday 14,44,2014-06-25,13:00,Bosnia-Herzegovina,BIH,Iran,IRN,3,1,null,null,,,,,,Edin Džeko,23,,1,0,,,Reza Ghoochannejhad,82,,2,1,,,Group F,fontenova,Arena Fonte Nova,Salvador,UTC-3
+World Cup 2014,Matchday 14,44,2014-06-25,13:00,Bosnia-Herzegovina,BIH,Iran,IRN,,,,,,,,,,Miralem Pjanić,59,,2,0,,,,,,,,,,Group F,fontenova,Arena Fonte Nova,Salvador,UTC-3
+World Cup 2014,Matchday 14,44,2014-06-25,13:00,Bosnia-Herzegovina,BIH,Iran,IRN,,,,,,,,,,Avdija Vršajević,83,,3,1,,,,,,,,,,Group F,fontenova,Arena Fonte Nova,Salvador,UTC-3
+World Cup 2014,Matchday 15,45,2014-06-26,13:00,United States,USA,Germany,GER,0,1,null,null,,,,,,,,,,,,,Thomas Müller,55,,0,1,,,Group G,pernambuco,Arena Pernambuco,Recife,UTC-3
+World Cup 2014,Matchday 15,46,2014-06-26,13:00,Portugal,POR,Ghana,GHA,2,1,null,null,,,,,,John Boye,31,,1,0,True,,Asamoah Gyan,57,,1,1,,,Group G,nacionaldebrasilia,Estádio Nacional (Mané Garrincha),Brasília,UTC-3
+World Cup 2014,Matchday 15,46,2014-06-26,13:00,Portugal,POR,Ghana,GHA,,,,,,,,,,Cristiano Ronaldo,80,,2,1,,,,,,,,,,Group G,nacionaldebrasilia,Estádio Nacional (Mané Garrincha),Brasília,UTC-3
+World Cup 2014,Matchday 15,47,2014-06-26,17:00,South Korea,KOR,Belgium,BEL,0,1,null,null,,,,,,,,,,,,,Jan Vertonghen,78,,0,1,,,Group H,corinthians,Arena Corinthians,São Paulo,UTC-3
+World Cup 2014,Matchday 15,48,2014-06-26,17:00,Algeria,ALG,Russia,RUS,1,1,null,null,,,,,,Islam Slimani,60,,1,1,,,Alexander Kokorin,6,,0,1,,,Group H,dabaixada,Arena da Baixada,Curitiba,UTC-3
+World Cup 2014,Round of 16,49,2014-06-28,13:00,Brazil,BRA,Chile,CHI,3,2,null,null,1,1,null,null,True,David Luiz,18,,1,0,,,Alexis Sánchez,32,,1,1,,,Group H,mineirao,Estádio Mineirão,Belo Horizonte,UTC-3
+World Cup 2014,Round of 16,50,2014-06-28,17:00,Colombia,COL,Uruguay,URU,2,0,null,null,null,null,null,null,True,James Rodríguez,28,,1,0,,,,,,,,,,Group H,maracana,Estádio do Maracanã,Rio de Janeiro,UTC-3
+World Cup 2014,Round of 16,,2014-06-28,17:00,Colombia,COL,Uruguay,URU,,,,,,,,,,James Rodríguez,50,,2,0,,,,,,,,,,Group H,maracana,Estádio do Maracanã,Rio de Janeiro,UTC-3
+World Cup 2014,Round of 16,51,2014-06-29,13:00,Netherlands,NED,Mexico,MEX,2,1,null,null,null,null,null,null,True,Wesley Sneijder,88,,1,1,,,Giovani dos Santos,48,,0,1,,,Group H,castelao,Estádio Castelão,Fortaleza,UTC-3
+World Cup 2014,Round of 16,,2014-06-29,13:00,Netherlands,NED,Mexico,MEX,,,,,,,,,,Klaas Jan Huntelaar,90,,2,1,,,,,,,,,,Group H,,,,
+World Cup 2014,Round of 16,52,2014-06-29,17:00,Costa Rica,CRC,Greece,GRE,5,3,null,null,1,1,null,null,True,Bryan Ruiz,52,,1,0,,,Socratis Papastathopoulos,90,,1,1,,,Group H,pernambuco,Arena Pernambuco,Recife,UTC-3
+World Cup 2014,Round of 16,53,2014-06-30,13:00,France,FRA,Nigeria,NGA,2,0,null,null,null,null,null,null,True,Paul Pogba,79,,1,0,,,,,,,,,,Group H,nacionaldebrasilia,Estádio Nacional (Mané Garrincha),Brasília,UTC-3
+World Cup 2014,Round of 16,,2014-06-30,13:00,France,FRA,Nigeria,NGA,,,,,,,,,,Joseph Yobo,90,2,2,0,True,,,,,,,,,Group H,,,,
+World Cup 2014,Round of 16,54,2014-06-30,17:00,Germany,GER,Algeria,ALG,0,0,null,null,2,1,null,null,True,André Schürrle,92,,1,0,,,Abdelmoumene Djabou,121,,2,1,,,Group H,beirario,Estádio Beira-Rio,Porto Alegre,UTC-3
+World Cup 2014,Round of 16,,2014-06-30,17:00,Germany,GER,Algeria,ALG,,,,,,,,,,Mesut Özil,120,,2,0,,,,,,,,,,Group H,,,,
+World Cup 2014,Round of 16,55,2014-07-01,13:00,Argentina,ARG,Switzerland,SUI,0,0,null,null,1,0,null,null,True,Ángel di María,118,,1,0,,,,,,,,,,Group H,corinthians,Arena Corinthians,São Paulo,UTC-3
+World Cup 2014,Round of 16,56,2014-07-01,17:00,Belgium,BEL,United States,USA,0,0,null,null,2,1,null,null,True,Kevin De Bruyne,93,,1,0,,,Julian Green,107,,2,1,,,Group H,fontenova,Arena Fonte Nova,Salvador,UTC-3
+World Cup 2014,Round of 16,,2014-07-01,17:00,Belgium,BEL,United States,USA,,,,,,,,,,Romelu Lukaku,105,,2,0,,,,,,,,,,Group H,,,,
+World Cup 2014,Quarter-finals,57,2014-07-04,17:00,Brazil,BRA,Colombia,COL,2,1,null,null,null,null,null,null,True,Thiago Silva,7,,1,0,,,James Rodríguez,80,,2,1,True,,Group H,castelao,Estádio Castelão,Fortaleza,UTC-3
+World Cup 2014,Quarter-finals,,2014-07-04,17:00,Brazil,BRA,Colombia,COL,,,,,,,,,,David Luiz,69,,2,0,,,,,,,,,,Group H,,,,
+World Cup 2014,Quarter-finals,58,2014-07-04,13:00,France,FRA,Germany,GER,0,1,null,null,null,null,null,null,True,,,,,,,,Mats Hummels,13,,0,1,,,Group H,maracana,Estádio do Maracanã,Rio de Janeiro,UTC-3
+World Cup 2014,Quarter-finals,59,2014-07-05,17:00,Netherlands,NED,Costa Rica,CRC,4,3,null,null,0,0,null,null,True,,,,,,,,,,,,,,,Group H,fontenova,Arena Fonte Nova,Salvador,UTC-3
+World Cup 2014,Quarter-finals,60,2014-07-05,13:00,Argentina,ARG,Belgium,BEL,1,0,null,null,null,null,null,null,True,Gonzalo Higuaín,8,,1,0,,,,,,,,,,Group H,nacionaldebrasilia,Estádio Nacional (Mané Garrincha),Brasília,UTC-3
+World Cup 2014,Semi-finals,61,2014-07-08,17:00,Brazil,BRA,Germany,GER,1,7,null,null,null,null,null,null,True,Oscar,90,,1,7,,,Thomas Müller,11,,0,1,,,Group H,mineirao,Estádio Mineirão,Belo Horizonte,UTC-3
+World Cup 2014,Semi-finals,61,2014-07-08,17:00,Brazil,BRA,Germany,GER,,,,,,,,,,,,,,,,,Miroslav Klose,23,,0,2,,,Group H,mineirao,Estádio Mineirão,Belo Horizonte,UTC-3
+World Cup 2014,Semi-finals,61,2014-07-08,17:00,Brazil,BRA,Germany,GER,,,,,,,,,,,,,,,,,Toni Kroos,24,,0,3,,,Group H,mineirao,Estádio Mineirão,Belo Horizonte,UTC-3
+World Cup 2014,Semi-finals,61,2014-07-08,17:00,Brazil,BRA,Germany,GER,,,,,,,,,,,,,,,,,Toni Kroos,26,,0,4,,,Group H,mineirao,Estádio Mineirão,Belo Horizonte,UTC-3
+World Cup 2014,Semi-finals,61,2014-07-08,17:00,Brazil,BRA,Germany,GER,,,,,,,,,,,,,,,,,Sami Khedira,29,,0,5,,,Group H,mineirao,Estádio Mineirão,Belo Horizonte,UTC-3
+World Cup 2014,Semi-finals,61,2014-07-08,17:00,Brazil,BRA,Germany,GER,,,,,,,,,,,,,,,,,Andre Schürrle,69,,0,6,,,Group H,mineirao,Estádio Mineirão,Belo Horizonte,UTC-3
+World Cup 2014,Semi-finals,61,2014-07-08,17:00,Brazil,BRA,Germany,GER,,,,,,,,,,,,,,,,,Andre Schürrle,79,,0,7,,,Group H,mineirao,Estádio Mineirão,Belo Horizonte,UTC-3
+World Cup 2014,Semi-finals,62,2014-07-09,17:00,Netherlands,NED,Argentina,ARG,2,4,null,null,0,0,null,null,True,,,,,,,,,,,,,,,Group H,corinthians,Arena Corinthians,São Paulo,UTC-3
+World Cup 2014,Match for third place,63,2014-07-12,17:00,Brazil,BRA,Netherlands,NED,0,3,null,null,null,null,null,null,True,,,,,,,,Robin Van Persie,3,,0,1,True,,Group H,nacionaldebrasilia,Estádio Nacional (Mané Garrincha),Brasília,UTC-3
+World Cup 2014,Match for third place,,2014-07-12,17:00,Brazil,BRA,Netherlands,NED,,,,,,,,,,,,,,,,,Daley Blind,17,,0,2,,,Group H,nacionaldebrasilia,Estádio Nacional (Mané Garrincha),Brasília,UTC-3
+World Cup 2014,Match for third place,,2014-07-12,17:00,Brazil,BRA,Netherlands,NED,,,,,,,,,,,,,,,,,Georginio Wijnaldum,90,1,0,3,,,Group H,nacionaldebrasilia,Estádio Nacional (Mané Garrincha),Brasília,UTC-3
+World Cup 2014,Final,64,2014-07-13,16:00,Germany,GER,Argentina,ARG,0,0,null,null,1,0,null,null,True,Mario Götze,113,,1,0,,,,,,,,,,Group H,maracana,Estádio do Maracanã,Rio de Janeiro,UTC-3

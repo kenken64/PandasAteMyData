@@ -1,0 +1,33 @@
+name,Country,teams__code,teams__continent,teams__assoc__key,teams__assoc__name,teams__assoc__continental__name,teams__assoc__continental__code
+World Cup 2014,Algeria,ALG,Africa,alg,Fédération Algérienne de Football,Confédération Africaine de Football (CAF),CAF
+World Cup 2014,Côte d'Ivoire,CIV,Africa,civ,Fédération Ivoirienne de Football,Confédération Africaine de Football (CAF),CAF
+World Cup 2014,Ghana,GHA,Africa,gha,Ghana Football Association,Confédération Africaine de Football (CAF),CAF
+World Cup 2014,Nigeria,NGA,Africa,nga,Nigeria Football Federation,Confédération Africaine de Football (CAF),CAF
+World Cup 2014,Cameroon,CMR,Africa,cmr,Fédération Camerounaise de Football,Confédération Africaine de Football (CAF),CAF
+World Cup 2014,Japan,JPN,Asia,jpn,Japan Football Association,Asian Football Confederation (AFC),AFC
+World Cup 2014,South Korea,KOR,Asia,kor,Korea Football Association,Asian Football Confederation (AFC),AFC
+World Cup 2014,Honduras,HON,Central America,hon,Federación Nacional Autónoma de Fútbol de Honduras,"Confederation of North, Central American and Caribbean Association Football (CONCACAF)",CONCACAF
+World Cup 2014,Costa Rica,CRC,Central America,crc,Federación Costarricense de Fútbol,"Confederation of North, Central American and Caribbean Association Football (CONCACAF)",CONCACAF
+World Cup 2014,Belgium,BEL,Europe,bel,Koninklijke Belgische Voetbalbond,Union of European Football Associations (UEFA),UEFA
+World Cup 2014,Germany,GER,Europe,ger,Deutscher Fußball-Bund,Union of European Football Associations (UEFA),UEFA
+World Cup 2014,Spain,ESP,Europe,esp,Real Federación Española de Fútbol,Union of European Football Associations (UEFA),UEFA
+World Cup 2014,France,FRA,Europe,fra,Fédération Française de Football,Union of European Football Associations (UEFA),UEFA
+World Cup 2014,Greece,GRE,Europe,gre,Hellenic Football Federation,Union of European Football Associations (UEFA),UEFA
+World Cup 2014,Italy,ITA,Europe,ita,Federazione Italiana Giuoco Calcio,Union of European Football Associations (UEFA),UEFA
+World Cup 2014,Netherlands,NED,Europe,bon,Bonaire Football Federation,"Confederation of North, Central American and Caribbean Association Football (CONCACAF)",CONCACAF
+World Cup 2014,Portugal,POR,Europe,por,Federação Portuguesa de Futebol,Union of European Football Associations (UEFA),UEFA
+World Cup 2014,Switzerland,SUI,Europe,sui,Association Suisse de Football,Union of European Football Associations (UEFA),UEFA
+World Cup 2014,Croatia,CRO,Europe,cro,Hrvatski Nogometni Savez,Union of European Football Associations (UEFA),UEFA
+World Cup 2014,Russia,RUS,Europe,rus,Russian Football Union,Union of European Football Associations (UEFA),UEFA
+World Cup 2014,Bosnia-Herzegovina,BIH,Europe,bih,Nogometni/Fudbalski Savez Bosne i Hercegovine,Union of European Football Associations (UEFA),UEFA
+World Cup 2014,England,ENG,Europe,,,,
+World Cup 2014,Iran,IRN,Middle East,irn,Football Federation Islamic Republic of Iran,Asian Football Confederation (AFC),AFC
+World Cup 2014,Mexico,MEX,North America,mex,Federación Mexicana de Fútbol Asociación,"Confederation of North, Central American and Caribbean Association Football (CONCACAF)",CONCACAF
+World Cup 2014,United States,USA,North America,usa,United States Soccer Federation,"Confederation of North, Central American and Caribbean Association Football (CONCACAF)",CONCACAF
+World Cup 2014,Australia,AUS,Pacific,aus,Football Federation Australia,Asian Football Confederation (AFC),AFC
+World Cup 2014,Argentina,ARG,South America,arg,Asociación del Fútbol Argentino,Confederación Sudamericana de Fútbol (CONMEBOL),CONMEBOL
+World Cup 2014,Brazil,BRA,South America,bra,Confederação Brasileira de Futebol,Confederación Sudamericana de Fútbol (CONMEBOL),CONMEBOL
+World Cup 2014,Chile,CHI,South America,chi,Federación de Fútbol de Chile,Confederación Sudamericana de Fútbol (CONMEBOL),CONMEBOL
+World Cup 2014,Uruguay,URU,South America,uru,Asociación Uruguaya de Fútbol,Confederación Sudamericana de Fútbol (CONMEBOL),CONMEBOL
+World Cup 2014,Colombia,COL,South America,col,Federación Colombiana de Fútbol,Confederación Sudamericana de Fútbol (CONMEBOL),CONMEBOL
+World Cup 2014,Ecuador,ECU,South America,ecu,Federación Ecuatoriana de Fútbol,Confederación Sudamericana de Fútbol (CONMEBOL),CONMEBOL
